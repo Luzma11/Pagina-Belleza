@@ -15,5 +15,5 @@ Esta pagina es un taller de la clase de Reparación de Equipos 2, con el fin de 
 2. Abrir `index.html` en tu navegador favorito.
 
 ## Contacto
-Para más información, puedes contactarme en [mi_email@example.com](luz.arias@gmail.com).
+Para más información, puedes contactarme en [luz.arias@gmail.com](luz.arias@gmail.com).
 
