@@ -1,0 +1,60 @@
+@import url('https://fonts.googleapis.com/css2?family=Spicy+Rice&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Rajdhani:wght@300;400;500;600;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Acme&family=Bebas+Neue&family=Rajdhani:wght@300;400;500;600;700&display=swap');
+
+
+.tituloprincipal {
+    font-family: "Spicy Rice", serif;
+    font-size: 50%;
+    font-style: normal;    
+    padding-top: 1%;
+    text-align: center;
+    color: #F2CE1B;
+}
+
+.salida {
+
+    color: aliceblue;
+}
+
+.n1 {
+
+    color: #731652;
+    font-weight: 900;
+}
+
+.n2 {
+
+    color: #D92B04;
+    font-weight: 900;
+}
+
+.n3 {
+
+    color: #7C8C03;
+    font-weight: 900;
+}
+
+.parrafo {
+
+    font-family: "Rajdhani", sans-serif;
+    font-weight: 600;
+    font-size: 22px;
+    font-style: normal;
+    color: black;
+    text-align: justify;
+   
+}
+
+.face{
+    color: rgb(135, 165, 228);
+}
+
+.wsp{
+    color: rgb(26, 158, 66);
+}
+
+.ins{
+    color: rgb(218, 59, 191);
+}
